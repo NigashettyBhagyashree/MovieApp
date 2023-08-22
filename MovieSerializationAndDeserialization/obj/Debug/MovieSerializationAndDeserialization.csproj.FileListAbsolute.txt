@@ -1,0 +1,17 @@
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\bin\Debug\MovieSerializationAndDeserialization.exe.config
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\bin\Debug\MovieSerializationAndDeserialization.exe
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\bin\Debug\MovieSerializationAndDeserialization.pdb
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\bin\Debug\System.Security.AccessControl.dll
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\bin\Debug\System.Security.Permissions.dll
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\bin\Debug\System.Security.Principal.Windows.dll
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\bin\Debug\System.Security.AccessControl.xml
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\bin\Debug\System.Security.Permissions.xml
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\bin\Debug\System.Security.Principal.Windows.xml
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\obj\Debug\MovieSerializationAndDeserialization.csproj.AssemblyReference.cache
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\obj\Debug\MovieSerializationAndDeserialization.csproj.SuggestedBindingRedirects.cache
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\obj\Debug\MovieSerializationAndDeserialization.csproj.CoreCompileInputs.cache
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\obj\Debug\MovieSerializationAndDeserialization.csproj.CopyComplete
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\obj\Debug\MovieSerializationAndDeserialization.exe
+D:\MonoDotNet\Session 16\MovieSerializationAndDeserialization\obj\Debug\MovieSerializationAndDeserialization.pdb
